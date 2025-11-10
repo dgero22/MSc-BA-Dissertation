@@ -3,7 +3,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)  
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)  
 ![AI](https://img.shields.io/badge/AI-Multi--Agent%20System-orange.svg)
 
 ---
